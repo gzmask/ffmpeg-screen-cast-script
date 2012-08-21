@@ -1,0 +1,8 @@
+first follow this guide to compile your own ffmepg:
+https://ffmpeg.org/trac/ffmpeg/wiki/UbuntuCompilationGuide
+
+the guide missed the sudo dpkg -i *.deb part
+
+now run the record.sh script. or:
+
+http://ubuntuforums.org/showthread.php?t=1392026
